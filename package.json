@@ -1,0 +1,14 @@
+{
+  "name": "stunting_kabbekasi",
+  "version": "1.0.0",
+  "description": "aplikasi stunting kabupaten bekasi untuk pencegahan dan penurunan angka stunting di kabupaten bekasi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diskominfosantik kab bekasi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
